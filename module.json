@@ -7,7 +7,7 @@
   "systems": ["dnd5e"],
   "styles": [],
   "scripts": ["weaponproperties.js"],
-  "manifest": "https://raw.githubusercontent.com/FrozenFabler/New-Weapon-Properties/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/FrozenFabler/New-Weapon-Properties/main/weaponproperties.js",
   "download": "https://github.com/FrozenFabler/New-Weapon-Properties/archive/main.zip",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.9"
